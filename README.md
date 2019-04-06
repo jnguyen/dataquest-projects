@@ -6,6 +6,8 @@ This is a repository of my solutions to the guided projects from the Data Scient
 
 These projects focus on exploratory data analysis, data cleaning, and data visualization on Python using the `numpy`, `pandas`, `matplotlib`, and `seaborn` packages.
 
-### [Project: Exploring eBay Car Sales Data](Exploring_eBay_Car_Sales_Data/explore_ebay.ipynb)
+### [Project: Exploring eBay Car Sales Data](Exploring_Ebay_Car_Sales_Data/explore_ebay.ipynb)
 
 ### [Project: Visualizing Earnings Based On College Majors](Visualizing_Earnings_Based_On_College_Majors/college_grads.ipynb)
+
+### [Project: Visualizing the Gender Gap In College Degrees](Visualizing_The_Gender_Gap_In_College_Degrees/gender_degrees.ipynb)
