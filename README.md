@@ -6,7 +6,7 @@ This is a repository of my solutions to the guided projects from the Data Scient
 
 These projects focus on developing machine learning models using the excellent `sklearn` package. Data cleaning and visualization are handled using `pandas` and `matplotlib`.
 
-### [Project: Predicting Car Prices](Predicting_Car_Prices/knn_car_prices.ipynb)
+### [Project: Predicting Car Prices (KNN)](Predicting_Car_Prices/knn_car_prices.ipynb)
 
 ## SQL and Python
 
