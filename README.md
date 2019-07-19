@@ -2,6 +2,12 @@
 
 This is a repository of my solutions to the guided projects from the Data Scientist Python track at [dataquest.io](https://www.dataquest.io). 
 
+## Machine Learning
+
+These projects focus on developing machine learning models using the excellent `sklearn` package. Data cleaning and visualization are handled using `pandas` and `matplotlib`.
+
+### [Project: Predicting Car Sales](Predicting_Car_Sales/knn_car_sales.ipynb)
+
 ## SQL and Python
 
 These projects focus on answering business questions and designing databases using SQLite3 and Python. Data is pulled by writing SQLite3 queries which are then executed using the`sqlite3` package in Python. The data is then analyzed using `pandas` and visualized using `matplotlib` and `seaborn`, with a focus on business growth metrics.
